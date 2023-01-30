@@ -63,9 +63,5 @@ $ node .
 
 # Credits
 - [https://github.com/titaniumnetwork-dev/](https://github.com/titaniumnetwork-dev/Ultraviolet)
-- https://github.com/ZeltuxDev
-- https://github.com/pyroTM
-- https://github.com/Arctiz
-- https://github.com/IllusionTBA
 
 
