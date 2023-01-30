@@ -6,9 +6,9 @@
 <p align="center">An open-source proxy using the Ultraviolet backend.<br><br></p>
 
 ## Self Host
-[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/AstralService/Void)
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/AstralService/Void)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/AstralService/Void)
+[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/AnomalyJx/Monsoon)
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/AnomalyJx/Monsoon)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/AnomalyJx/Monsoon)
 
 ## Features
 - CAPTCHA and hCAPTCHA support
@@ -28,7 +28,7 @@
 - [Spotify](https://spotify.com)
 - [Discord](https://discord.com)
 - [Reddit](https://reddit.com)
-- [GforceNow](https://www.nvidia.com/en-us/geforce-now/)
+- [GeforceNow](https://www.nvidia.com/en-us/geforce-now/)
 - And more!
 
 ## Technologies Used
@@ -54,12 +54,6 @@ $ node .
 | Prefix | The prefix is the prefix that you want users to see. Ex: `https://void.ivi.pl.xyz/service` The default prefix is `service`. |
 | Bare   | The bare server is the bare server that you want UV to use. Ex: `https://void.ivi.pl/bare` The default bare is `/bare/`. |
 
-# Authors & Contributors
-
-- Pyro (Owner/Founder of Astral Network)
-- Illusions (Developer for Astral Network)
-- Arctiz (Community Manager for Astral Network)
-- Caracal.js (Creator of Ultraviolet)
 
 # Credits
 - [https://github.com/titaniumnetwork-dev/](https://github.com/titaniumnetwork-dev/Ultraviolet)
