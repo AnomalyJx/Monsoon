@@ -1,9 +1,9 @@
 {
-  "name": "Void",
-  "description": "UV Void prox",
-  "repository": "https://github.com/AstralService/Void",
+  "name": "Monsoon",
+  "description": "Monsoon prox",
+  "repository": "https://github.com/calco-proxy/galaxy",
   "logo": "na",
-  "keywords": ["void", "uv"],
+  "keywords": ["monsoon", "uv", "proxy"],
   "env": {
     "BlacklistedIPs": {
       "description": "Blacklist IPS from entering the site. Leave as default if you don't know what you're doing.",
