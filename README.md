@@ -1,9 +1,9 @@
 <p align="center"><img src="https://cdn.discordapp.com/attachments/972930458725785642/973002917399392296/unknown.png" height="200">
 </p>
 
-<h1 align="center">Void Proxy</h1>
+<h1 align="center">Monsoon Proxy</h1>
 
-<p align="center">An open-source proxy using the Ultraviolet backend by TN, Voids purpose is to end internet censorship.<br><br></p>
+<p align="center">An open-source proxy using the Ultraviolet backend.<br><br></p>
 
 ## Self Host
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/AstralService/Void)
