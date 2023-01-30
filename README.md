@@ -44,7 +44,7 @@ Installation of Void is simple. You can view the BASIC GUIDE below!
 ## Basic Guide (Replit, Heroku, Glitch etc.)
 
 ```sh
-$ git clone https://github.com/AstralService/Void.git
+$ git clone https://github.com/AnomalyJx/Monsoon.git
 $ npm install
 $ node .
 ```
