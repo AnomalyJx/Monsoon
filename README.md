@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/972930458725785642/973002917399392296/unknown.png" height="200">
+<p align="center"><img src="https://monsoon.anomalyjx.repl.co/monsoon.png" height="200">
 </p>
 
 <h1 align="center">Monsoon Proxy</h1>
