@@ -15,8 +15,7 @@
 [![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/AnomalyJx/Monsoon)
 [![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/AnomalyJx/Monsoon)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://github.com/AnomalyJx/Monsoon/wiki/Deploy-to-Koyeb)
-[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)]([[https://github.com/AnomalyJx/Monsoon/wiki/Deploy-on-Railway](https://github.com/AnomalyJx/Monsoon.git
-)](https://app.koyeb.com/deploy?type=git&repository=github.com/AnomalyJx/Monsoon&branch=main&name=Monsoon))
+[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://github.com/AnomalyJx/Monsoon/wiki/Deploy-to-Koyeb)
 
 ## Features
 - CAPTCHA and hCAPTCHA support
