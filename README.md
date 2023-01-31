@@ -45,7 +45,7 @@
 
 # Installation and Setup
 
-Installation of Void is simple. You can view the BASIC GUIDE below!
+Installation of Monsoon is simple. You can view the BASIC GUIDE below!
 
 ## Basic Guide (Replit, Heroku, Glitch etc.)
 
@@ -54,12 +54,6 @@ $ git clone https://github.com/AnomalyJx/Monsoon.git
 $ npm install
 $ node .
 ```
-
-| Configuration | Options and Explanation |
-| ------------- | ----------------------- |
-| Prefix | The prefix is the prefix that you want users to see. Ex: `https://void.ivi.pl.xyz/service` The default prefix is `service`. |
-| Bare   | The bare server is the bare server that you want UV to use. Ex: `https://void.ivi.pl/bare` The default bare is `/bare/`. |
-
 
 # Credits
 - [https://github.com/titaniumnetwork-dev/](https://github.com/titaniumnetwork-dev/Ultraviolet)
